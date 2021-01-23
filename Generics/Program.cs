@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-//izlenilen video https://www.youtube.com/watch?v=eq7lgV0m2so
+
 namespace Generics
 {
     class Program
